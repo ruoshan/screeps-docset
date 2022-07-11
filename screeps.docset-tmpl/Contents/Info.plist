@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>screeps</string>
+    <key>CFBundleName</key>
+    <string>Screeps API</string>
+    <key>DashDocSetKeyword</key>
+    <string>screeps</string>
+    <key>DashDocSetPluginKeyword</key>
+    <string>screeps</string>
+    <key>DocSetPlatformFamily</key>
+    <string>screeps</string>
+    <key>dashIndexFilePath</key>
+    <string>_VERSION_/api.html</string>
+    <key>isDashDocset</key>
+    <true/>
+    <key>isJavaScriptEnabled</key>
+    <true/>
+</dict>
+</plist>
